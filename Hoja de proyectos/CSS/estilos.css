@@ -1,0 +1,71 @@
+body {
+    background:#FFE3B3 ;
+    color:#000000;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.Titulo, .Nombre, .Carrera
+{
+    text-align: center;
+    background: #33BE5E;
+    color: #000000;
+    
+}
+
+.header
+{
+    background: #33BE5E;
+    width: 100%;
+}
+
+.portafolio
+{
+    background: #0B8A30;
+    color: #62DCB9;
+}
+h1 {
+    color: #0B8A30;
+}
+
+h2 {
+    color: #000000;
+}
+
+.proyect {
+    font-size: 25px;
+}
+
+.Encabezado
+{
+    background-color: #62DCB9;
+    width: 100%;
+    text-align: right;
+    text-decoration:none;
+    font-size: 40px;
+    padding: 20px 20px;
+    display: inline-block;
+}
+.Encabezado:hover
+{
+    text-decoration: solid;
+}
+
+.lenguaje
+{
+    text-align: right;
+    
+}
+
+footer
+{
+    background: #0B8A30;
+}
+
+.skill
+{
+    background: #62DCB9;
+}
+
+
+/*Esto es un comentario */
